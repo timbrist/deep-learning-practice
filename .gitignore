@@ -1,0 +1,9 @@
+cnn/data/mnist_net.pth
+cnn/data/MNIST/raw/t10k-images-idx3-ubyte
+cnn/data/MNIST/raw/t10k-images-idx3-ubyte.gz
+cnn/data/MNIST/raw/t10k-labels-idx1-ubyte
+cnn/data/MNIST/raw/t10k-labels-idx1-ubyte.gz
+cnn/data/MNIST/raw/train-images-idx3-ubyte
+cnn/data/MNIST/raw/train-images-idx3-ubyte.gz
+cnn/data/MNIST/raw/train-labels-idx1-ubyte
+cnn/data/MNIST/raw/train-labels-idx1-ubyte.gz
